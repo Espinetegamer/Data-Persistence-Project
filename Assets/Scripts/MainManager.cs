@@ -12,6 +12,7 @@ public class MainManager : MonoBehaviour
     public Rigidbody Ball;
 
     public Text ScoreText;
+    
 
     //Fields for display the player info
     public Text CurrentPlayerName;

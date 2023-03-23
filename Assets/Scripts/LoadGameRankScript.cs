@@ -25,6 +25,7 @@ public class LoadGameRankScript : MonoBehaviour
 
 
 
+
     private void SetBestPlayer()
     {
         if (BestPlayer == null && BestScore == 0)
